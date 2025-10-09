@@ -1,8 +1,8 @@
 # 🧠 Codeforces Answers Archive
 
 [![Languages](https://img.shields.io/badge/Languages-Python%2C%20C%2B%2B%2C%20Java-blue)](#)
-[![Last Updated](https://img.shields.io/github/last-commit/b-bullock/Codeforces-Answers-Archive?color=green)](#)
-[![Repo Size](https://img.shields.io/github/repo-size/b-bullock/Codeforces-Answers-Archive?color=orange)](#)
+[![Last Updated](https://img.shields.io/github/last-commit/b-bullock/CodeForce-Answers?color=green)](#)
+[![Repo Size](https://img.shields.io/github/repo-size/b-bullock/CodeForce-Answers?color=orange)](#)
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Visit_Profile-blue?logo=codeforces)](https://codeforces.com/profile/b-bullock)
 
 ---
