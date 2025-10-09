@@ -35,8 +35,7 @@ It serves as a central place to **store**, **organize**, and **review** my compe
 ```
 ├── 800/                      # Difficulty level (Codeforces rating)
 │   ├── 4A_Watermelon/        # Problem Set
-│   │   └── Python/           # Language
-│   │       └── 4A.py         # Solution
+│   │   └── 4A.py             # Solution             
 │   ├── 71A_WayTooLongWords/
 │
 ├── 900/
