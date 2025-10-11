@@ -1,4 +1,4 @@
-# [A. Team](https://codeforces.com/problemset/problem/282/A)
+# [A. Bit++](https://codeforces.com/problemset/problem/282/A)
 
 ## Problem Statement
 
