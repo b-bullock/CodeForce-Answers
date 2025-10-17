@@ -15,9 +15,8 @@ It serves as a central place to **store**, **organize**, and **review** my compe
 ## 📘 Overview
 
 ### 🛠️ Languages Used
-- 🐍 Python (Primary)
-- 💻 C++ (Sometimes)
-- ☕ Java (Rarely)
+- 💻 C++
+- 🐍 Python
 
 ### 🎯 Goals
 - Keep a structured record of all Codeforces problems I’ve solved  
@@ -35,7 +34,8 @@ It serves as a central place to **store**, **organize**, and **review** my compe
 ```
 ├── 800/                      # Difficulty level (Codeforces rating)
 │   ├── 4A_Watermelon/        # Problem Set
-│   │   └── 4A.py             # Solution             
+│   │   └── 4A.cpp            # Solution
+|   │   └── 4A.py             
 │   ├── 71A_WayTooLongWords/
 │
 ├── 900/
@@ -49,7 +49,7 @@ It serves as a central place to **store**, **organize**, and **review** my compe
 
 Each folder corresponds to a **difficulty rating** (based on Codeforces).  
 File and folder names follow the format:  
-`<ProblemID>_<ProblemName>/<Language>/<ProblemID>.ext`
+`<Rating>/<ProblemID>_<ProblemName>/<ProblemID>.ext`
 
 ---
 
